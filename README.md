@@ -551,6 +551,4 @@ service cloud.firestore {
 }
 ```
 
-## Trạng thái hiện tại của README
 
-README này được viết dựa trên cấu trúc và code hiện có trong dự án. Nếu thêm collection, màn hình hoặc service mới, hãy cập nhật các phần tính năng, cấu trúc thư mục và mô hình dữ liệu tương ứng.
